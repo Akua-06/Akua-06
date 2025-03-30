@@ -17,7 +17,7 @@
 ---
 <h2 align="left">Connect with me:</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://oxidane_06/t.me) 
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://t.me/sn_akua_bot) 
 
 ---
 
