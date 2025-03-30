@@ -1,28 +1,28 @@
-<a href="https://github.com/Akua-06"><img scr="https://files.catbox.moe/k0wx4k.jpg" alt="akua-06" /></a> 
+<a href="https://github.com/Akua-06"><kbd><img src="https://files.catbox.moe/k0wx4k.jpg"/></kbd></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akua-06&label=Profile%20Counter&color=000000&style=plastic" alt="akua-06" /> </p>
 
 ---
-# ***👤Profile :-***
--
--
--
+## ***👤Profile :-***
+- **Name :-** Akua
+- **Guthib username :-** Akua-06
+- **Nationality :-** 🇮🇳 *Indian*
 
 ---
 ## ***🪪About me :-***  
-  (Will be ready soon) 
+  (Will be available soon) 
 
 ---
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.youtube.com/c/@notebook-z19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@notebook-z19" height="30" width="40" /></a>
-</p>
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://oxidane_06/t.me) 
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="centre"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akua-06&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&rank_icon=github&locale=en" alt="akua-06" /></p>
